@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionDebugSymbolProperties Include="Forensic-USB.app">
+      <NativeExecutable>Forensic-USB</NativeExecutable>
+      <CompiledArchitectures></CompiledArchitectures>
+      <NoDSymUtil>true</NoDSymUtil>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <SymbolsList>/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/mtouch-symbols.list</SymbolsList>
+    </_AppExtensionDebugSymbolProperties>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{475CECC0-AD47-453A-9985-2947B99108E5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Forensic-USB PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Forensic-USB/ViewController.cs">
+    <Files>
+      <File FileName="Forensic-USB/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="Forensic-USB/ViewController.cs" Line="70" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Forensic-USB" expanded="True">
+            <Node name="Forensic-USB" expanded="True">
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyMacID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

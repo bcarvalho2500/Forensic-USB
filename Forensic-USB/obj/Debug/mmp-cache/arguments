@@ -1,0 +1,24 @@
+# Version: 8.2.0.1 (xcode13.1: 8fd9e6289)
+/Library/Frameworks/Xamarin.Mac.framework/Versions/8.2.0.1/lib/mmp/mmp.exe \
+	/Library/Frameworks/Xamarin.Mac.framework/Versions/8.2.0.1/bin/../lib/mmp/mmp.exe \
+	--debug \
+	'/target-framework:Xamarin.Mac,Version=v2.0,Profile=Mobile' \
+	--http-message-handler=HttpClientHandler \
+	--cache=/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/mmp-cache \
+	--root-assembly=/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/bin/Debug/Forensic-USB.exe \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--targetver=10.14 \
+	-q \
+	-q \
+	-q \
+	-q \
+	/output:/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/bin/Debug/ \
+	/name:Forensic-USB \
+	/abi:x86_64 \
+	/nolink \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Facades/System.Drawing.Common.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	@/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/response-file.rsp \

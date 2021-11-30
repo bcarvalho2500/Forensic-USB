@@ -1,0 +1,16 @@
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/bin/Debug/Forensic-USB.exe
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/bin/Debug/Forensic-USB.pdb
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/actool/_PartialAppManifest.items
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/_ProcessedContentPath.items
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/Forensic-USB.csproj.AssemblyReference.cache
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/Forensic-USB.csproj.CoreCompileInputs.cache
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/Forensic-USB.exe
+/Users/brandoncarvalho/Projects/Forensic-USB/Forensic-USB/obj/Debug/Forensic-USB.pdb
